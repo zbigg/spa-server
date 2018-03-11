@@ -1,0 +1,21 @@
+{
+  "name": "spa-server",
+  "version": "0.1.0",
+  "description": "Single Page App Server",
+  "main": "SpaServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.11.1",
+    "@types/glob": "^5.0.35",
+    "@types/node": "^9.4.7",
+    "debug": "^3.1.0",
+    "express": "^4.16.2",
+    "glob": "^7.1.2",
+    "ts-node": "^5.0.1",
+    "typescript": "^2.7.2"
+  }
+}
